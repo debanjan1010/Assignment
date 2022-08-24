@@ -6,6 +6,7 @@ Stack & Libraries
 1. Java
 2. TestNG
 3. Maven
+4. log4j
 
 Prerequisites
 1. IDE (Eclipse/IntelliJ)
@@ -31,6 +32,7 @@ To run the test
 Project components
  - Test json files (exmaple TeamRCB.json) are in the directory src/main/resources/
  - Test classes are in the the directory src/test/java/org/example
+ - TestUtils.class containing the utility methods for reading specific data from json file are in the the directory  src/test/java/org/example/utility/
 
 
 Note: For the verify team player test case to run, you must use the groups = "teamMemberValidation" for each test case. 
@@ -39,4 +41,7 @@ Note: For the verify team player test case to run, you must use the groups = "te
 To see the report use the default report emailable-report.html under target folder as shown below 
 
 <img width="232" alt="image" src="https://user-images.githubusercontent.com/39940461/186450895-a48db2a3-09b4-423b-aded-66df9fbb4dff.png">
+
+<img width="879" alt="image" src="https://user-images.githubusercontent.com/39940461/186489786-e32136d2-a95e-4ede-9f20-c9cc63dd2f36.png">
+
 
