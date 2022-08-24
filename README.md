@@ -1,6 +1,6 @@
 # Assignment
 
-This is a simple project that would allow anyone to get up and running with Java, Maven and TestNG. It also explains how to execute a simple test that will assert/verify content from json file. 
+This is a simple project that would allow anyone to get up and running with Java, Maven and TestNG. It also explains how to execute a simple test that will assert/verify content from json file using testng assertion. 
 
 Stack & Libraries
 1. Java
@@ -16,9 +16,7 @@ Prerequisites
  - Setting up maven https://mkyong.com/maven/how-to-install-maven-in-windows/
 
 How to run tests
-In terminal: 
-
-git clone 
+In terminal:  git clone https://github.com/debanjan1010/Assignment.git
 
 Change directory to the location of cloned project folder and run Maven clean
 
