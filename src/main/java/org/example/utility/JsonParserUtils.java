@@ -10,7 +10,7 @@ import org.json.simple.parser.ParseException;
 import java.io.FileReader;
 import java.io.IOException;
 
-public class TestUtils {
+public class JsonParserUtils {
 
     public static Logger log = LogManager.getLogger();
 
