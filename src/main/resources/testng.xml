@@ -2,6 +2,11 @@
 
 <suite name="TeamValidationTestSuite" verbose="1" >
     <test name="Validate Team Player Requirement" >
+        <groups>
+            <run>
+                <include name="teamMemberValidation" />
+            </run>
+        </groups>
         <classes>
             <class name="org.example.TeamValidationTests"/>
         </classes>
