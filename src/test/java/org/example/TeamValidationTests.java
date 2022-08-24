@@ -7,7 +7,17 @@ public class TeamValidationTests {
 
     @Test
     public void demoTest(){
-        System.out.println("demotest method");
+        System.out.println("demo test method");
         Assert.assertTrue(true, "This is demo test");
+    }
+
+    @Test(groups = "teamMemberValidation")
+    public void foreignPlayersValidationTest(){
+
+    }
+
+    @Test(groups = "teamMemberValidation")
+    public void wicketKeeperValidationTest(){
+
     }
 }
