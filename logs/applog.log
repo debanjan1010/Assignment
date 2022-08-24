@@ -1,0 +1,476 @@
+[INFO ] 25-08-2022 00:24:39 [main] TestUtils - Team Name : Royal Challengers Bangalore
+[INFO ] 25-08-2022 00:24:39 [main] TestUtils - --------- Player 1 --------- 
+[INFO ] 25-08-2022 00:24:39 [main] TestUtils - -------------------------
+[INFO ] 25-08-2022 00:24:39 [main] TestUtils - Name : Faf Du Plessis
+[INFO ] 25-08-2022 00:24:39 [main] TestUtils - Country : South Africa
+[INFO ] 25-08-2022 00:24:39 [main] TestUtils - Role : Batsman
+[INFO ] 25-08-2022 00:24:39 [main] TestUtils - Price-in-crores : 7
+[INFO ] 25-08-2022 00:24:39 [main] TestUtils -  
+[INFO ] 25-08-2022 00:24:39 [main] TestUtils - --------- Player 2 --------- 
+[INFO ] 25-08-2022 00:24:39 [main] TestUtils - -------------------------
+[INFO ] 25-08-2022 00:24:39 [main] TestUtils - Name : Virat Kohli
+[INFO ] 25-08-2022 00:24:39 [main] TestUtils - Country : India
+[INFO ] 25-08-2022 00:24:39 [main] TestUtils - Role : Batsman
+[INFO ] 25-08-2022 00:24:39 [main] TestUtils - Price-in-crores : 15
+[INFO ] 25-08-2022 00:24:39 [main] TestUtils -  
+[INFO ] 25-08-2022 00:24:39 [main] TestUtils - --------- Player 3 --------- 
+[INFO ] 25-08-2022 00:24:39 [main] TestUtils - -------------------------
+[INFO ] 25-08-2022 00:24:39 [main] TestUtils - Name : Glenn Maxwell
+[INFO ] 25-08-2022 00:24:39 [main] TestUtils - Country : Australia
+[INFO ] 25-08-2022 00:24:39 [main] TestUtils - Role : Batsman
+[INFO ] 25-08-2022 00:24:39 [main] TestUtils - Price-in-crores : 11
+[INFO ] 25-08-2022 00:24:39 [main] TestUtils -  
+[INFO ] 25-08-2022 00:24:39 [main] TestUtils - --------- Player 4 --------- 
+[INFO ] 25-08-2022 00:24:39 [main] TestUtils - -------------------------
+[INFO ] 25-08-2022 00:24:39 [main] TestUtils - Name : Mohammad Siraj
+[INFO ] 25-08-2022 00:24:39 [main] TestUtils - Country : India
+[INFO ] 25-08-2022 00:24:39 [main] TestUtils - Role : Bowler
+[INFO ] 25-08-2022 00:24:39 [main] TestUtils - Price-in-crores : 7
+[INFO ] 25-08-2022 00:24:39 [main] TestUtils -  
+[INFO ] 25-08-2022 00:24:39 [main] TestUtils - --------- Player 5 --------- 
+[INFO ] 25-08-2022 00:24:39 [main] TestUtils - -------------------------
+[INFO ] 25-08-2022 00:24:39 [main] TestUtils - Name : Harshal Patel
+[INFO ] 25-08-2022 00:24:39 [main] TestUtils - Country : India
+[INFO ] 25-08-2022 00:24:39 [main] TestUtils - Role : Bowler
+[INFO ] 25-08-2022 00:24:39 [main] TestUtils - Price-in-crores : 10.75
+[INFO ] 25-08-2022 00:24:39 [main] TestUtils -  
+[INFO ] 25-08-2022 00:24:39 [main] TestUtils - --------- Player 6 --------- 
+[INFO ] 25-08-2022 00:24:39 [main] TestUtils - -------------------------
+[INFO ] 25-08-2022 00:24:39 [main] TestUtils - Name : Wanindu Hasaranga
+[INFO ] 25-08-2022 00:24:39 [main] TestUtils - Country : Srilanka
+[INFO ] 25-08-2022 00:24:39 [main] TestUtils - Role : Bowler
+[INFO ] 25-08-2022 00:24:39 [main] TestUtils - Price-in-crores : 10.75
+[INFO ] 25-08-2022 00:24:39 [main] TestUtils -  
+[INFO ] 25-08-2022 00:24:39 [main] TestUtils - --------- Player 7 --------- 
+[INFO ] 25-08-2022 00:24:39 [main] TestUtils - -------------------------
+[INFO ] 25-08-2022 00:24:39 [main] TestUtils - Name : Dinesh Karthik
+[INFO ] 25-08-2022 00:24:39 [main] TestUtils - Country : India
+[INFO ] 25-08-2022 00:24:39 [main] TestUtils - Role : Wicket-keeper
+[INFO ] 25-08-2022 00:24:39 [main] TestUtils - Price-in-crores : 5.5
+[INFO ] 25-08-2022 00:24:39 [main] TestUtils -  
+[INFO ] 25-08-2022 00:24:39 [main] TestUtils - --------- Player 8 --------- 
+[INFO ] 25-08-2022 00:24:39 [main] TestUtils - -------------------------
+[INFO ] 25-08-2022 00:24:39 [main] TestUtils - Name : Shahbaz Ahmed
+[INFO ] 25-08-2022 00:24:39 [main] TestUtils - Country : India
+[INFO ] 25-08-2022 00:24:39 [main] TestUtils - Role : All-Rounder
+[INFO ] 25-08-2022 00:24:39 [main] TestUtils - Price-in-crores : 2.4
+[INFO ] 25-08-2022 00:24:39 [main] TestUtils -  
+[INFO ] 25-08-2022 00:24:39 [main] TestUtils - --------- Player 9 --------- 
+[INFO ] 25-08-2022 00:24:39 [main] TestUtils - -------------------------
+[INFO ] 25-08-2022 00:24:39 [main] TestUtils - Name : Rajat Patidar
+[INFO ] 25-08-2022 00:24:39 [main] TestUtils - Country : India
+[INFO ] 25-08-2022 00:24:39 [main] TestUtils - Role : Batsman
+[INFO ] 25-08-2022 00:24:39 [main] TestUtils - Price-in-crores : 0.20
+[INFO ] 25-08-2022 00:24:39 [main] TestUtils -  
+[INFO ] 25-08-2022 00:24:39 [main] TestUtils - --------- Player 10 --------- 
+[INFO ] 25-08-2022 00:24:39 [main] TestUtils - -------------------------
+[INFO ] 25-08-2022 00:24:39 [main] TestUtils - Name : Josh Hazlewood
+[INFO ] 25-08-2022 00:24:39 [main] TestUtils - Country : Australia
+[INFO ] 25-08-2022 00:24:39 [main] TestUtils - Role : Bowler
+[INFO ] 25-08-2022 00:24:39 [main] TestUtils - Price-in-crores : 7.75
+[INFO ] 25-08-2022 00:24:39 [main] TestUtils -  
+[INFO ] 25-08-2022 00:24:39 [main] TestUtils - --------- Player 11 --------- 
+[INFO ] 25-08-2022 00:24:39 [main] TestUtils - -------------------------
+[INFO ] 25-08-2022 00:24:39 [main] TestUtils - Name : Mahipal Lomror
+[INFO ] 25-08-2022 00:24:39 [main] TestUtils - Country : India
+[INFO ] 25-08-2022 00:24:39 [main] TestUtils - Role : Bowler
+[INFO ] 25-08-2022 00:24:39 [main] TestUtils - Price-in-crores : 7.75
+[INFO ] 25-08-2022 00:24:39 [main] TestUtils -  
+[INFO ] 25-08-2022 00:24:39 [main] TestUtils - Foreign Player Count is 4
+[INFO ] 25-08-2022 00:24:39 [main] TestUtils - Team Name : Royal Challengers Bangalore
+[INFO ] 25-08-2022 00:24:39 [main] TestUtils - --------- Player 1 --------- 
+[INFO ] 25-08-2022 00:24:39 [main] TestUtils - -------------------------
+[INFO ] 25-08-2022 00:24:39 [main] TestUtils - Name : Faf Du Plessis
+[INFO ] 25-08-2022 00:24:39 [main] TestUtils - Country : South Africa
+[INFO ] 25-08-2022 00:24:39 [main] TestUtils - Role : Batsman
+[INFO ] 25-08-2022 00:24:39 [main] TestUtils - Price-in-crores : 7
+[INFO ] 25-08-2022 00:24:39 [main] TestUtils -  
+[INFO ] 25-08-2022 00:24:39 [main] TestUtils - --------- Player 2 --------- 
+[INFO ] 25-08-2022 00:24:39 [main] TestUtils - -------------------------
+[INFO ] 25-08-2022 00:24:39 [main] TestUtils - Name : Virat Kohli
+[INFO ] 25-08-2022 00:24:39 [main] TestUtils - Country : India
+[INFO ] 25-08-2022 00:24:39 [main] TestUtils - Role : Batsman
+[INFO ] 25-08-2022 00:24:39 [main] TestUtils - Price-in-crores : 15
+[INFO ] 25-08-2022 00:24:39 [main] TestUtils -  
+[INFO ] 25-08-2022 00:24:39 [main] TestUtils - --------- Player 3 --------- 
+[INFO ] 25-08-2022 00:24:39 [main] TestUtils - -------------------------
+[INFO ] 25-08-2022 00:24:39 [main] TestUtils - Name : Glenn Maxwell
+[INFO ] 25-08-2022 00:24:39 [main] TestUtils - Country : Australia
+[INFO ] 25-08-2022 00:24:39 [main] TestUtils - Role : Batsman
+[INFO ] 25-08-2022 00:24:39 [main] TestUtils - Price-in-crores : 11
+[INFO ] 25-08-2022 00:24:39 [main] TestUtils -  
+[INFO ] 25-08-2022 00:24:39 [main] TestUtils - --------- Player 4 --------- 
+[INFO ] 25-08-2022 00:24:39 [main] TestUtils - -------------------------
+[INFO ] 25-08-2022 00:24:39 [main] TestUtils - Name : Mohammad Siraj
+[INFO ] 25-08-2022 00:24:39 [main] TestUtils - Country : India
+[INFO ] 25-08-2022 00:24:39 [main] TestUtils - Role : Bowler
+[INFO ] 25-08-2022 00:24:39 [main] TestUtils - Price-in-crores : 7
+[INFO ] 25-08-2022 00:24:39 [main] TestUtils -  
+[INFO ] 25-08-2022 00:24:39 [main] TestUtils - --------- Player 5 --------- 
+[INFO ] 25-08-2022 00:24:39 [main] TestUtils - -------------------------
+[INFO ] 25-08-2022 00:24:39 [main] TestUtils - Name : Harshal Patel
+[INFO ] 25-08-2022 00:24:39 [main] TestUtils - Country : India
+[INFO ] 25-08-2022 00:24:39 [main] TestUtils - Role : Bowler
+[INFO ] 25-08-2022 00:24:39 [main] TestUtils - Price-in-crores : 10.75
+[INFO ] 25-08-2022 00:24:39 [main] TestUtils -  
+[INFO ] 25-08-2022 00:24:39 [main] TestUtils - --------- Player 6 --------- 
+[INFO ] 25-08-2022 00:24:39 [main] TestUtils - -------------------------
+[INFO ] 25-08-2022 00:24:39 [main] TestUtils - Name : Wanindu Hasaranga
+[INFO ] 25-08-2022 00:24:39 [main] TestUtils - Country : Srilanka
+[INFO ] 25-08-2022 00:24:39 [main] TestUtils - Role : Bowler
+[INFO ] 25-08-2022 00:24:39 [main] TestUtils - Price-in-crores : 10.75
+[INFO ] 25-08-2022 00:24:39 [main] TestUtils -  
+[INFO ] 25-08-2022 00:24:39 [main] TestUtils - --------- Player 7 --------- 
+[INFO ] 25-08-2022 00:24:39 [main] TestUtils - -------------------------
+[INFO ] 25-08-2022 00:24:39 [main] TestUtils - Name : Dinesh Karthik
+[INFO ] 25-08-2022 00:24:39 [main] TestUtils - Country : India
+[INFO ] 25-08-2022 00:24:39 [main] TestUtils - Role : Wicket-keeper
+[INFO ] 25-08-2022 00:24:39 [main] TestUtils - Price-in-crores : 5.5
+[INFO ] 25-08-2022 00:24:39 [main] TestUtils -  
+[INFO ] 25-08-2022 00:24:39 [main] TestUtils - --------- Player 8 --------- 
+[INFO ] 25-08-2022 00:24:39 [main] TestUtils - -------------------------
+[INFO ] 25-08-2022 00:24:39 [main] TestUtils - Name : Shahbaz Ahmed
+[INFO ] 25-08-2022 00:24:39 [main] TestUtils - Country : India
+[INFO ] 25-08-2022 00:24:39 [main] TestUtils - Role : All-Rounder
+[INFO ] 25-08-2022 00:24:39 [main] TestUtils - Price-in-crores : 2.4
+[INFO ] 25-08-2022 00:24:39 [main] TestUtils -  
+[INFO ] 25-08-2022 00:24:39 [main] TestUtils - --------- Player 9 --------- 
+[INFO ] 25-08-2022 00:24:39 [main] TestUtils - -------------------------
+[INFO ] 25-08-2022 00:24:39 [main] TestUtils - Name : Rajat Patidar
+[INFO ] 25-08-2022 00:24:39 [main] TestUtils - Country : India
+[INFO ] 25-08-2022 00:24:39 [main] TestUtils - Role : Batsman
+[INFO ] 25-08-2022 00:24:39 [main] TestUtils - Price-in-crores : 0.20
+[INFO ] 25-08-2022 00:24:39 [main] TestUtils -  
+[INFO ] 25-08-2022 00:24:39 [main] TestUtils - --------- Player 10 --------- 
+[INFO ] 25-08-2022 00:24:39 [main] TestUtils - -------------------------
+[INFO ] 25-08-2022 00:24:39 [main] TestUtils - Name : Josh Hazlewood
+[INFO ] 25-08-2022 00:24:39 [main] TestUtils - Country : Australia
+[INFO ] 25-08-2022 00:24:39 [main] TestUtils - Role : Bowler
+[INFO ] 25-08-2022 00:24:39 [main] TestUtils - Price-in-crores : 7.75
+[INFO ] 25-08-2022 00:24:39 [main] TestUtils -  
+[INFO ] 25-08-2022 00:24:39 [main] TestUtils - --------- Player 11 --------- 
+[INFO ] 25-08-2022 00:24:39 [main] TestUtils - -------------------------
+[INFO ] 25-08-2022 00:24:39 [main] TestUtils - Name : Mahipal Lomror
+[INFO ] 25-08-2022 00:24:39 [main] TestUtils - Country : India
+[INFO ] 25-08-2022 00:24:39 [main] TestUtils - Role : Bowler
+[INFO ] 25-08-2022 00:24:39 [main] TestUtils - Price-in-crores : 7.75
+[INFO ] 25-08-2022 00:24:39 [main] TestUtils -  
+[INFO ] 25-08-2022 00:24:39 [main] TestUtils - Total Wicket Keeper in count 1
+[INFO ] 25-08-2022 00:27:46 [main] TestUtils - Team Name : Royal Challengers Bangalore
+[INFO ] 25-08-2022 00:27:46 [main] TestUtils - --------- Player 1 --------- 
+[INFO ] 25-08-2022 00:27:46 [main] TestUtils - -------------------------
+[INFO ] 25-08-2022 00:27:46 [main] TestUtils - Name : Faf Du Plessis
+[INFO ] 25-08-2022 00:27:46 [main] TestUtils - Country : South Africa
+[INFO ] 25-08-2022 00:27:46 [main] TestUtils - Role : Batsman
+[INFO ] 25-08-2022 00:27:46 [main] TestUtils - Price-in-crores : 7
+[INFO ] 25-08-2022 00:27:46 [main] TestUtils -  
+[INFO ] 25-08-2022 00:27:46 [main] TestUtils - --------- Player 2 --------- 
+[INFO ] 25-08-2022 00:27:46 [main] TestUtils - -------------------------
+[INFO ] 25-08-2022 00:27:46 [main] TestUtils - Name : Virat Kohli
+[INFO ] 25-08-2022 00:27:46 [main] TestUtils - Country : India
+[INFO ] 25-08-2022 00:27:46 [main] TestUtils - Role : Batsman
+[INFO ] 25-08-2022 00:27:46 [main] TestUtils - Price-in-crores : 15
+[INFO ] 25-08-2022 00:27:46 [main] TestUtils -  
+[INFO ] 25-08-2022 00:27:46 [main] TestUtils - --------- Player 3 --------- 
+[INFO ] 25-08-2022 00:27:46 [main] TestUtils - -------------------------
+[INFO ] 25-08-2022 00:27:46 [main] TestUtils - Name : Glenn Maxwell
+[INFO ] 25-08-2022 00:27:46 [main] TestUtils - Country : Australia
+[INFO ] 25-08-2022 00:27:46 [main] TestUtils - Role : Batsman
+[INFO ] 25-08-2022 00:27:46 [main] TestUtils - Price-in-crores : 11
+[INFO ] 25-08-2022 00:27:46 [main] TestUtils -  
+[INFO ] 25-08-2022 00:27:46 [main] TestUtils - --------- Player 4 --------- 
+[INFO ] 25-08-2022 00:27:46 [main] TestUtils - -------------------------
+[INFO ] 25-08-2022 00:27:46 [main] TestUtils - Name : Mohammad Siraj
+[INFO ] 25-08-2022 00:27:46 [main] TestUtils - Country : India
+[INFO ] 25-08-2022 00:27:46 [main] TestUtils - Role : Bowler
+[INFO ] 25-08-2022 00:27:46 [main] TestUtils - Price-in-crores : 7
+[INFO ] 25-08-2022 00:27:46 [main] TestUtils -  
+[INFO ] 25-08-2022 00:27:46 [main] TestUtils - --------- Player 5 --------- 
+[INFO ] 25-08-2022 00:27:46 [main] TestUtils - -------------------------
+[INFO ] 25-08-2022 00:27:46 [main] TestUtils - Name : Harshal Patel
+[INFO ] 25-08-2022 00:27:46 [main] TestUtils - Country : India
+[INFO ] 25-08-2022 00:27:46 [main] TestUtils - Role : Bowler
+[INFO ] 25-08-2022 00:27:46 [main] TestUtils - Price-in-crores : 10.75
+[INFO ] 25-08-2022 00:27:46 [main] TestUtils -  
+[INFO ] 25-08-2022 00:27:46 [main] TestUtils - --------- Player 6 --------- 
+[INFO ] 25-08-2022 00:27:46 [main] TestUtils - -------------------------
+[INFO ] 25-08-2022 00:27:46 [main] TestUtils - Name : Wanindu Hasaranga
+[INFO ] 25-08-2022 00:27:46 [main] TestUtils - Country : Srilanka
+[INFO ] 25-08-2022 00:27:46 [main] TestUtils - Role : Bowler
+[INFO ] 25-08-2022 00:27:46 [main] TestUtils - Price-in-crores : 10.75
+[INFO ] 25-08-2022 00:27:46 [main] TestUtils -  
+[INFO ] 25-08-2022 00:27:46 [main] TestUtils - --------- Player 7 --------- 
+[INFO ] 25-08-2022 00:27:46 [main] TestUtils - -------------------------
+[INFO ] 25-08-2022 00:27:46 [main] TestUtils - Name : Dinesh Karthik
+[INFO ] 25-08-2022 00:27:46 [main] TestUtils - Country : India
+[INFO ] 25-08-2022 00:27:46 [main] TestUtils - Role : Wicket-keeper
+[INFO ] 25-08-2022 00:27:46 [main] TestUtils - Price-in-crores : 5.5
+[INFO ] 25-08-2022 00:27:46 [main] TestUtils -  
+[INFO ] 25-08-2022 00:27:46 [main] TestUtils - --------- Player 8 --------- 
+[INFO ] 25-08-2022 00:27:46 [main] TestUtils - -------------------------
+[INFO ] 25-08-2022 00:27:46 [main] TestUtils - Name : Shahbaz Ahmed
+[INFO ] 25-08-2022 00:27:46 [main] TestUtils - Country : India
+[INFO ] 25-08-2022 00:27:46 [main] TestUtils - Role : All-Rounder
+[INFO ] 25-08-2022 00:27:46 [main] TestUtils - Price-in-crores : 2.4
+[INFO ] 25-08-2022 00:27:46 [main] TestUtils -  
+[INFO ] 25-08-2022 00:27:46 [main] TestUtils - --------- Player 9 --------- 
+[INFO ] 25-08-2022 00:27:46 [main] TestUtils - -------------------------
+[INFO ] 25-08-2022 00:27:46 [main] TestUtils - Name : Rajat Patidar
+[INFO ] 25-08-2022 00:27:46 [main] TestUtils - Country : India
+[INFO ] 25-08-2022 00:27:46 [main] TestUtils - Role : Batsman
+[INFO ] 25-08-2022 00:27:46 [main] TestUtils - Price-in-crores : 0.20
+[INFO ] 25-08-2022 00:27:46 [main] TestUtils -  
+[INFO ] 25-08-2022 00:27:46 [main] TestUtils - --------- Player 10 --------- 
+[INFO ] 25-08-2022 00:27:46 [main] TestUtils - -------------------------
+[INFO ] 25-08-2022 00:27:46 [main] TestUtils - Name : Josh Hazlewood
+[INFO ] 25-08-2022 00:27:46 [main] TestUtils - Country : Australia
+[INFO ] 25-08-2022 00:27:46 [main] TestUtils - Role : Bowler
+[INFO ] 25-08-2022 00:27:46 [main] TestUtils - Price-in-crores : 7.75
+[INFO ] 25-08-2022 00:27:46 [main] TestUtils -  
+[INFO ] 25-08-2022 00:27:46 [main] TestUtils - --------- Player 11 --------- 
+[INFO ] 25-08-2022 00:27:46 [main] TestUtils - -------------------------
+[INFO ] 25-08-2022 00:27:46 [main] TestUtils - Name : Mahipal Lomror
+[INFO ] 25-08-2022 00:27:46 [main] TestUtils - Country : India
+[INFO ] 25-08-2022 00:27:46 [main] TestUtils - Role : Bowler
+[INFO ] 25-08-2022 00:27:46 [main] TestUtils - Price-in-crores : 7.75
+[INFO ] 25-08-2022 00:27:46 [main] TestUtils -  
+[INFO ] 25-08-2022 00:27:46 [main] TestUtils - Foreign Player Count is 4
+[INFO ] 25-08-2022 00:27:46 [main] TestUtils - Team Name : Royal Challengers Bangalore
+[INFO ] 25-08-2022 00:27:46 [main] TestUtils - --------- Player 1 --------- 
+[INFO ] 25-08-2022 00:27:46 [main] TestUtils - -------------------------
+[INFO ] 25-08-2022 00:27:46 [main] TestUtils - Name : Faf Du Plessis
+[INFO ] 25-08-2022 00:27:46 [main] TestUtils - Country : South Africa
+[INFO ] 25-08-2022 00:27:46 [main] TestUtils - Role : Batsman
+[INFO ] 25-08-2022 00:27:46 [main] TestUtils - Price-in-crores : 7
+[INFO ] 25-08-2022 00:27:46 [main] TestUtils -  
+[INFO ] 25-08-2022 00:27:46 [main] TestUtils - --------- Player 2 --------- 
+[INFO ] 25-08-2022 00:27:46 [main] TestUtils - -------------------------
+[INFO ] 25-08-2022 00:27:46 [main] TestUtils - Name : Virat Kohli
+[INFO ] 25-08-2022 00:27:46 [main] TestUtils - Country : India
+[INFO ] 25-08-2022 00:27:46 [main] TestUtils - Role : Batsman
+[INFO ] 25-08-2022 00:27:46 [main] TestUtils - Price-in-crores : 15
+[INFO ] 25-08-2022 00:27:46 [main] TestUtils -  
+[INFO ] 25-08-2022 00:27:46 [main] TestUtils - --------- Player 3 --------- 
+[INFO ] 25-08-2022 00:27:46 [main] TestUtils - -------------------------
+[INFO ] 25-08-2022 00:27:46 [main] TestUtils - Name : Glenn Maxwell
+[INFO ] 25-08-2022 00:27:46 [main] TestUtils - Country : Australia
+[INFO ] 25-08-2022 00:27:46 [main] TestUtils - Role : Batsman
+[INFO ] 25-08-2022 00:27:46 [main] TestUtils - Price-in-crores : 11
+[INFO ] 25-08-2022 00:27:46 [main] TestUtils -  
+[INFO ] 25-08-2022 00:27:46 [main] TestUtils - --------- Player 4 --------- 
+[INFO ] 25-08-2022 00:27:46 [main] TestUtils - -------------------------
+[INFO ] 25-08-2022 00:27:46 [main] TestUtils - Name : Mohammad Siraj
+[INFO ] 25-08-2022 00:27:46 [main] TestUtils - Country : India
+[INFO ] 25-08-2022 00:27:46 [main] TestUtils - Role : Bowler
+[INFO ] 25-08-2022 00:27:46 [main] TestUtils - Price-in-crores : 7
+[INFO ] 25-08-2022 00:27:46 [main] TestUtils -  
+[INFO ] 25-08-2022 00:27:46 [main] TestUtils - --------- Player 5 --------- 
+[INFO ] 25-08-2022 00:27:46 [main] TestUtils - -------------------------
+[INFO ] 25-08-2022 00:27:46 [main] TestUtils - Name : Harshal Patel
+[INFO ] 25-08-2022 00:27:46 [main] TestUtils - Country : India
+[INFO ] 25-08-2022 00:27:46 [main] TestUtils - Role : Bowler
+[INFO ] 25-08-2022 00:27:46 [main] TestUtils - Price-in-crores : 10.75
+[INFO ] 25-08-2022 00:27:46 [main] TestUtils -  
+[INFO ] 25-08-2022 00:27:46 [main] TestUtils - --------- Player 6 --------- 
+[INFO ] 25-08-2022 00:27:46 [main] TestUtils - -------------------------
+[INFO ] 25-08-2022 00:27:46 [main] TestUtils - Name : Wanindu Hasaranga
+[INFO ] 25-08-2022 00:27:46 [main] TestUtils - Country : Srilanka
+[INFO ] 25-08-2022 00:27:46 [main] TestUtils - Role : Bowler
+[INFO ] 25-08-2022 00:27:46 [main] TestUtils - Price-in-crores : 10.75
+[INFO ] 25-08-2022 00:27:46 [main] TestUtils -  
+[INFO ] 25-08-2022 00:27:46 [main] TestUtils - --------- Player 7 --------- 
+[INFO ] 25-08-2022 00:27:46 [main] TestUtils - -------------------------
+[INFO ] 25-08-2022 00:27:46 [main] TestUtils - Name : Dinesh Karthik
+[INFO ] 25-08-2022 00:27:46 [main] TestUtils - Country : India
+[INFO ] 25-08-2022 00:27:46 [main] TestUtils - Role : Wicket-keeper
+[INFO ] 25-08-2022 00:27:46 [main] TestUtils - Price-in-crores : 5.5
+[INFO ] 25-08-2022 00:27:46 [main] TestUtils -  
+[INFO ] 25-08-2022 00:27:46 [main] TestUtils - --------- Player 8 --------- 
+[INFO ] 25-08-2022 00:27:46 [main] TestUtils - -------------------------
+[INFO ] 25-08-2022 00:27:46 [main] TestUtils - Name : Shahbaz Ahmed
+[INFO ] 25-08-2022 00:27:46 [main] TestUtils - Country : India
+[INFO ] 25-08-2022 00:27:46 [main] TestUtils - Role : All-Rounder
+[INFO ] 25-08-2022 00:27:46 [main] TestUtils - Price-in-crores : 2.4
+[INFO ] 25-08-2022 00:27:46 [main] TestUtils -  
+[INFO ] 25-08-2022 00:27:46 [main] TestUtils - --------- Player 9 --------- 
+[INFO ] 25-08-2022 00:27:46 [main] TestUtils - -------------------------
+[INFO ] 25-08-2022 00:27:46 [main] TestUtils - Name : Rajat Patidar
+[INFO ] 25-08-2022 00:27:46 [main] TestUtils - Country : India
+[INFO ] 25-08-2022 00:27:46 [main] TestUtils - Role : Batsman
+[INFO ] 25-08-2022 00:27:46 [main] TestUtils - Price-in-crores : 0.20
+[INFO ] 25-08-2022 00:27:46 [main] TestUtils -  
+[INFO ] 25-08-2022 00:27:46 [main] TestUtils - --------- Player 10 --------- 
+[INFO ] 25-08-2022 00:27:46 [main] TestUtils - -------------------------
+[INFO ] 25-08-2022 00:27:46 [main] TestUtils - Name : Josh Hazlewood
+[INFO ] 25-08-2022 00:27:46 [main] TestUtils - Country : Australia
+[INFO ] 25-08-2022 00:27:46 [main] TestUtils - Role : Bowler
+[INFO ] 25-08-2022 00:27:46 [main] TestUtils - Price-in-crores : 7.75
+[INFO ] 25-08-2022 00:27:46 [main] TestUtils -  
+[INFO ] 25-08-2022 00:27:46 [main] TestUtils - --------- Player 11 --------- 
+[INFO ] 25-08-2022 00:27:46 [main] TestUtils - -------------------------
+[INFO ] 25-08-2022 00:27:46 [main] TestUtils - Name : Mahipal Lomror
+[INFO ] 25-08-2022 00:27:46 [main] TestUtils - Country : India
+[INFO ] 25-08-2022 00:27:46 [main] TestUtils - Role : Bowler
+[INFO ] 25-08-2022 00:27:46 [main] TestUtils - Price-in-crores : 7.75
+[INFO ] 25-08-2022 00:27:46 [main] TestUtils -  
+[INFO ] 25-08-2022 00:27:46 [main] TestUtils - Total Wicket Keeper in count 1
+[INFO ] 25-08-2022 01:11:38 [main] TeamValidationTests - --- TEST CASE : To Verify that Foreign Player Should be 4 ---
+[INFO ] 25-08-2022 01:11:38 [main] JsonParserUtils - Team Name : Royal Challengers Bangalore
+[INFO ] 25-08-2022 01:11:38 [main] JsonParserUtils - --------- Player 1 --------- 
+[INFO ] 25-08-2022 01:11:38 [main] JsonParserUtils - -------------------------
+[INFO ] 25-08-2022 01:11:38 [main] JsonParserUtils - Name : Faf Du Plessis
+[INFO ] 25-08-2022 01:11:38 [main] JsonParserUtils - Country : South Africa
+[INFO ] 25-08-2022 01:11:38 [main] JsonParserUtils - Role : Batsman
+[INFO ] 25-08-2022 01:11:38 [main] JsonParserUtils - Price-in-crores : 7
+[INFO ] 25-08-2022 01:11:38 [main] JsonParserUtils -  
+[INFO ] 25-08-2022 01:11:38 [main] JsonParserUtils - --------- Player 2 --------- 
+[INFO ] 25-08-2022 01:11:38 [main] JsonParserUtils - -------------------------
+[INFO ] 25-08-2022 01:11:38 [main] JsonParserUtils - Name : Virat Kohli
+[INFO ] 25-08-2022 01:11:38 [main] JsonParserUtils - Country : India
+[INFO ] 25-08-2022 01:11:38 [main] JsonParserUtils - Role : Batsman
+[INFO ] 25-08-2022 01:11:38 [main] JsonParserUtils - Price-in-crores : 15
+[INFO ] 25-08-2022 01:11:38 [main] JsonParserUtils -  
+[INFO ] 25-08-2022 01:11:38 [main] JsonParserUtils - --------- Player 3 --------- 
+[INFO ] 25-08-2022 01:11:38 [main] JsonParserUtils - -------------------------
+[INFO ] 25-08-2022 01:11:38 [main] JsonParserUtils - Name : Glenn Maxwell
+[INFO ] 25-08-2022 01:11:38 [main] JsonParserUtils - Country : Australia
+[INFO ] 25-08-2022 01:11:38 [main] JsonParserUtils - Role : Batsman
+[INFO ] 25-08-2022 01:11:38 [main] JsonParserUtils - Price-in-crores : 11
+[INFO ] 25-08-2022 01:11:38 [main] JsonParserUtils -  
+[INFO ] 25-08-2022 01:11:39 [main] JsonParserUtils - --------- Player 4 --------- 
+[INFO ] 25-08-2022 01:11:39 [main] JsonParserUtils - -------------------------
+[INFO ] 25-08-2022 01:11:39 [main] JsonParserUtils - Name : Mohammad Siraj
+[INFO ] 25-08-2022 01:11:39 [main] JsonParserUtils - Country : India
+[INFO ] 25-08-2022 01:11:39 [main] JsonParserUtils - Role : Bowler
+[INFO ] 25-08-2022 01:11:39 [main] JsonParserUtils - Price-in-crores : 7
+[INFO ] 25-08-2022 01:11:39 [main] JsonParserUtils -  
+[INFO ] 25-08-2022 01:11:39 [main] JsonParserUtils - --------- Player 5 --------- 
+[INFO ] 25-08-2022 01:11:39 [main] JsonParserUtils - -------------------------
+[INFO ] 25-08-2022 01:11:39 [main] JsonParserUtils - Name : Harshal Patel
+[INFO ] 25-08-2022 01:11:39 [main] JsonParserUtils - Country : India
+[INFO ] 25-08-2022 01:11:39 [main] JsonParserUtils - Role : Bowler
+[INFO ] 25-08-2022 01:11:39 [main] JsonParserUtils - Price-in-crores : 10.75
+[INFO ] 25-08-2022 01:11:39 [main] JsonParserUtils -  
+[INFO ] 25-08-2022 01:11:39 [main] JsonParserUtils - --------- Player 6 --------- 
+[INFO ] 25-08-2022 01:11:39 [main] JsonParserUtils - -------------------------
+[INFO ] 25-08-2022 01:11:39 [main] JsonParserUtils - Name : Wanindu Hasaranga
+[INFO ] 25-08-2022 01:11:39 [main] JsonParserUtils - Country : Srilanka
+[INFO ] 25-08-2022 01:11:39 [main] JsonParserUtils - Role : Bowler
+[INFO ] 25-08-2022 01:11:39 [main] JsonParserUtils - Price-in-crores : 10.75
+[INFO ] 25-08-2022 01:11:39 [main] JsonParserUtils -  
+[INFO ] 25-08-2022 01:11:39 [main] JsonParserUtils - --------- Player 7 --------- 
+[INFO ] 25-08-2022 01:11:39 [main] JsonParserUtils - -------------------------
+[INFO ] 25-08-2022 01:11:39 [main] JsonParserUtils - Name : Dinesh Karthik
+[INFO ] 25-08-2022 01:11:39 [main] JsonParserUtils - Country : India
+[INFO ] 25-08-2022 01:11:39 [main] JsonParserUtils - Role : Wicket-keeper
+[INFO ] 25-08-2022 01:11:39 [main] JsonParserUtils - Price-in-crores : 5.5
+[INFO ] 25-08-2022 01:11:39 [main] JsonParserUtils -  
+[INFO ] 25-08-2022 01:11:39 [main] JsonParserUtils - --------- Player 8 --------- 
+[INFO ] 25-08-2022 01:11:39 [main] JsonParserUtils - -------------------------
+[INFO ] 25-08-2022 01:11:39 [main] JsonParserUtils - Name : Shahbaz Ahmed
+[INFO ] 25-08-2022 01:11:39 [main] JsonParserUtils - Country : India
+[INFO ] 25-08-2022 01:11:39 [main] JsonParserUtils - Role : All-Rounder
+[INFO ] 25-08-2022 01:11:39 [main] JsonParserUtils - Price-in-crores : 2.4
+[INFO ] 25-08-2022 01:11:39 [main] JsonParserUtils -  
+[INFO ] 25-08-2022 01:11:39 [main] JsonParserUtils - --------- Player 9 --------- 
+[INFO ] 25-08-2022 01:11:39 [main] JsonParserUtils - -------------------------
+[INFO ] 25-08-2022 01:11:39 [main] JsonParserUtils - Name : Rajat Patidar
+[INFO ] 25-08-2022 01:11:39 [main] JsonParserUtils - Country : India
+[INFO ] 25-08-2022 01:11:39 [main] JsonParserUtils - Role : Batsman
+[INFO ] 25-08-2022 01:11:39 [main] JsonParserUtils - Price-in-crores : 0.20
+[INFO ] 25-08-2022 01:11:39 [main] JsonParserUtils -  
+[INFO ] 25-08-2022 01:11:39 [main] JsonParserUtils - --------- Player 10 --------- 
+[INFO ] 25-08-2022 01:11:39 [main] JsonParserUtils - -------------------------
+[INFO ] 25-08-2022 01:11:39 [main] JsonParserUtils - Name : Josh Hazlewood
+[INFO ] 25-08-2022 01:11:39 [main] JsonParserUtils - Country : Australia
+[INFO ] 25-08-2022 01:11:39 [main] JsonParserUtils - Role : Bowler
+[INFO ] 25-08-2022 01:11:39 [main] JsonParserUtils - Price-in-crores : 7.75
+[INFO ] 25-08-2022 01:11:39 [main] JsonParserUtils -  
+[INFO ] 25-08-2022 01:11:39 [main] JsonParserUtils - --------- Player 11 --------- 
+[INFO ] 25-08-2022 01:11:39 [main] JsonParserUtils - -------------------------
+[INFO ] 25-08-2022 01:11:39 [main] JsonParserUtils - Name : Mahipal Lomror
+[INFO ] 25-08-2022 01:11:39 [main] JsonParserUtils - Country : India
+[INFO ] 25-08-2022 01:11:39 [main] JsonParserUtils - Role : Bowler
+[INFO ] 25-08-2022 01:11:39 [main] JsonParserUtils - Price-in-crores : 7.75
+[INFO ] 25-08-2022 01:11:39 [main] JsonParserUtils -  
+[INFO ] 25-08-2022 01:11:39 [main] JsonParserUtils - Foreign Player Count is 4
+[INFO ] 25-08-2022 01:11:39 [main] TeamValidationTests - --- TEST CASE : To Verify that there should be at least one wicket keeper ---
+[INFO ] 25-08-2022 01:11:39 [main] JsonParserUtils - Team Name : Royal Challengers Bangalore
+[INFO ] 25-08-2022 01:11:39 [main] JsonParserUtils - --------- Player 1 --------- 
+[INFO ] 25-08-2022 01:11:39 [main] JsonParserUtils - -------------------------
+[INFO ] 25-08-2022 01:11:39 [main] JsonParserUtils - Name : Faf Du Plessis
+[INFO ] 25-08-2022 01:11:39 [main] JsonParserUtils - Country : South Africa
+[INFO ] 25-08-2022 01:11:39 [main] JsonParserUtils - Role : Batsman
+[INFO ] 25-08-2022 01:11:39 [main] JsonParserUtils - Price-in-crores : 7
+[INFO ] 25-08-2022 01:11:39 [main] JsonParserUtils -  
+[INFO ] 25-08-2022 01:11:39 [main] JsonParserUtils - --------- Player 2 --------- 
+[INFO ] 25-08-2022 01:11:39 [main] JsonParserUtils - -------------------------
+[INFO ] 25-08-2022 01:11:39 [main] JsonParserUtils - Name : Virat Kohli
+[INFO ] 25-08-2022 01:11:39 [main] JsonParserUtils - Country : India
+[INFO ] 25-08-2022 01:11:39 [main] JsonParserUtils - Role : Batsman
+[INFO ] 25-08-2022 01:11:39 [main] JsonParserUtils - Price-in-crores : 15
+[INFO ] 25-08-2022 01:11:39 [main] JsonParserUtils -  
+[INFO ] 25-08-2022 01:11:39 [main] JsonParserUtils - --------- Player 3 --------- 
+[INFO ] 25-08-2022 01:11:39 [main] JsonParserUtils - -------------------------
+[INFO ] 25-08-2022 01:11:39 [main] JsonParserUtils - Name : Glenn Maxwell
+[INFO ] 25-08-2022 01:11:39 [main] JsonParserUtils - Country : Australia
+[INFO ] 25-08-2022 01:11:39 [main] JsonParserUtils - Role : Batsman
+[INFO ] 25-08-2022 01:11:39 [main] JsonParserUtils - Price-in-crores : 11
+[INFO ] 25-08-2022 01:11:39 [main] JsonParserUtils -  
+[INFO ] 25-08-2022 01:11:39 [main] JsonParserUtils - --------- Player 4 --------- 
+[INFO ] 25-08-2022 01:11:39 [main] JsonParserUtils - -------------------------
+[INFO ] 25-08-2022 01:11:39 [main] JsonParserUtils - Name : Mohammad Siraj
+[INFO ] 25-08-2022 01:11:39 [main] JsonParserUtils - Country : India
+[INFO ] 25-08-2022 01:11:39 [main] JsonParserUtils - Role : Bowler
+[INFO ] 25-08-2022 01:11:39 [main] JsonParserUtils - Price-in-crores : 7
+[INFO ] 25-08-2022 01:11:39 [main] JsonParserUtils -  
+[INFO ] 25-08-2022 01:11:39 [main] JsonParserUtils - --------- Player 5 --------- 
+[INFO ] 25-08-2022 01:11:39 [main] JsonParserUtils - -------------------------
+[INFO ] 25-08-2022 01:11:39 [main] JsonParserUtils - Name : Harshal Patel
+[INFO ] 25-08-2022 01:11:39 [main] JsonParserUtils - Country : India
+[INFO ] 25-08-2022 01:11:39 [main] JsonParserUtils - Role : Bowler
+[INFO ] 25-08-2022 01:11:39 [main] JsonParserUtils - Price-in-crores : 10.75
+[INFO ] 25-08-2022 01:11:39 [main] JsonParserUtils -  
+[INFO ] 25-08-2022 01:11:39 [main] JsonParserUtils - --------- Player 6 --------- 
+[INFO ] 25-08-2022 01:11:39 [main] JsonParserUtils - -------------------------
+[INFO ] 25-08-2022 01:11:39 [main] JsonParserUtils - Name : Wanindu Hasaranga
+[INFO ] 25-08-2022 01:11:39 [main] JsonParserUtils - Country : Srilanka
+[INFO ] 25-08-2022 01:11:39 [main] JsonParserUtils - Role : Bowler
+[INFO ] 25-08-2022 01:11:39 [main] JsonParserUtils - Price-in-crores : 10.75
+[INFO ] 25-08-2022 01:11:39 [main] JsonParserUtils -  
+[INFO ] 25-08-2022 01:11:39 [main] JsonParserUtils - --------- Player 7 --------- 
+[INFO ] 25-08-2022 01:11:39 [main] JsonParserUtils - -------------------------
+[INFO ] 25-08-2022 01:11:39 [main] JsonParserUtils - Name : Dinesh Karthik
+[INFO ] 25-08-2022 01:11:39 [main] JsonParserUtils - Country : India
+[INFO ] 25-08-2022 01:11:39 [main] JsonParserUtils - Role : Wicket-keeper
+[INFO ] 25-08-2022 01:11:39 [main] JsonParserUtils - Price-in-crores : 5.5
+[INFO ] 25-08-2022 01:11:39 [main] JsonParserUtils -  
+[INFO ] 25-08-2022 01:11:39 [main] JsonParserUtils - --------- Player 8 --------- 
+[INFO ] 25-08-2022 01:11:39 [main] JsonParserUtils - -------------------------
+[INFO ] 25-08-2022 01:11:39 [main] JsonParserUtils - Name : Shahbaz Ahmed
+[INFO ] 25-08-2022 01:11:39 [main] JsonParserUtils - Country : India
+[INFO ] 25-08-2022 01:11:39 [main] JsonParserUtils - Role : All-Rounder
+[INFO ] 25-08-2022 01:11:39 [main] JsonParserUtils - Price-in-crores : 2.4
+[INFO ] 25-08-2022 01:11:39 [main] JsonParserUtils -  
+[INFO ] 25-08-2022 01:11:39 [main] JsonParserUtils - --------- Player 9 --------- 
+[INFO ] 25-08-2022 01:11:39 [main] JsonParserUtils - -------------------------
+[INFO ] 25-08-2022 01:11:39 [main] JsonParserUtils - Name : Rajat Patidar
+[INFO ] 25-08-2022 01:11:39 [main] JsonParserUtils - Country : India
+[INFO ] 25-08-2022 01:11:39 [main] JsonParserUtils - Role : Batsman
+[INFO ] 25-08-2022 01:11:39 [main] JsonParserUtils - Price-in-crores : 0.20
+[INFO ] 25-08-2022 01:11:39 [main] JsonParserUtils -  
+[INFO ] 25-08-2022 01:11:39 [main] JsonParserUtils - --------- Player 10 --------- 
+[INFO ] 25-08-2022 01:11:39 [main] JsonParserUtils - -------------------------
+[INFO ] 25-08-2022 01:11:39 [main] JsonParserUtils - Name : Josh Hazlewood
+[INFO ] 25-08-2022 01:11:39 [main] JsonParserUtils - Country : Australia
+[INFO ] 25-08-2022 01:11:39 [main] JsonParserUtils - Role : Bowler
+[INFO ] 25-08-2022 01:11:39 [main] JsonParserUtils - Price-in-crores : 7.75
+[INFO ] 25-08-2022 01:11:39 [main] JsonParserUtils -  
+[INFO ] 25-08-2022 01:11:39 [main] JsonParserUtils - --------- Player 11 --------- 
+[INFO ] 25-08-2022 01:11:39 [main] JsonParserUtils - -------------------------
+[INFO ] 25-08-2022 01:11:39 [main] JsonParserUtils - Name : Mahipal Lomror
+[INFO ] 25-08-2022 01:11:39 [main] JsonParserUtils - Country : India
+[INFO ] 25-08-2022 01:11:39 [main] JsonParserUtils - Role : Bowler
+[INFO ] 25-08-2022 01:11:39 [main] JsonParserUtils - Price-in-crores : 7.75
+[INFO ] 25-08-2022 01:11:39 [main] JsonParserUtils -  
+[INFO ] 25-08-2022 01:11:39 [main] JsonParserUtils - Total Wicket Keeper in count 1
